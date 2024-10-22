@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, sou **Vinícius Lira** 👋
+
+Bem-vindo ao meu perfil! Profissional de Data Science e Analytics, apaixonado por transformar dados em insights valiosos.
+
+<!--## 🔍 Sobre Mim
 
 <!--
 **liraavinicius/liraavinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
