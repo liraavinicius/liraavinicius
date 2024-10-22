@@ -1,9 +1,10 @@
-# Olá, sou **Vinícius Lira** 👋
+Olá, sou **Vinícius Lira** 👋
 
-Bem-vindo ao meu perfil! Profissional de Data Science e Analytics, apaixonado por transformar dados em insights valiosos.
+Profissional de Data Science e Analytics, apaixonado por transformar dados em insights valiosos.
 
 👨🏻‍💻 **Analista de Canais** na [Livelo Brasil](https://www.livelo.com.br/)
-- 🖥️ Atualmente mais focado em:
+
+🖥️ Trabalho diariamente com:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
