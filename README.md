@@ -27,7 +27,7 @@ Profissional de Data Science e Analytics, apaixonado por transformar dados em in
 
 - **Ferramentas de visualização**: Excel, Power BI, Tableau e Looker Studio
 - **Estatística**: Testes de Hipóteses, Análises Descritivas e Inferenciais, Projeções e Análises Preditivas
-- **machine Learning**: Classificação, Regressão e Clustering
+- **Machine Learning**: Classificação, Regressão e Clustering
 - **Experimentação**: A/B Testing, CRO, Análise de Funil
 - **Cloud Computing**: AWS Athena, AWS Glue e AWS Quicksight
 
