@@ -29,7 +29,7 @@ Profissional de Data Science e Analytics, apaixonado por transformar dados em in
 - **Estatística**: Testes de Hipóteses, Análises Descritivas e Inferenciais, Projeções e Análises Preditivas
 - **machine Learning**: Classificação, Regressão e Clustering
 - **Experimentação**: A/B Testing, CRO, Análise de Funil
-- **Cloud Computing**: AWS Athena, AWSGlue e AWS Quicksoght
+- **Cloud Computing**: AWS Athena, AWS Glue e AWS Quicksight
 
 ##
 
